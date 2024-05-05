@@ -1,8 +1,7 @@
 This is a TEST VERSION of CELEHS EHR PROCESSING TUTORIAL
 ========================================================
 
-This is to test hyperlink `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is to test hyperlink `Open Food Facts database <https://world.openfoodfacts.org/>`.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
