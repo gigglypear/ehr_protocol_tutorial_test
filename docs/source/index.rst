@@ -8,12 +8,19 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   To give example notes in blue window
+
+.. warning:: 
+
+   To give example warning in red window 
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   overview
+   procedure
+   tab1
+   tab2
+   reference
