@@ -36,8 +36,8 @@ Structured EHR data encompasses information organized according to a specific sc
 Codified EHR data pertains to four main categories: diagnosis, medications, lab measurements, and procedures. To standardize these data across different healthcare systems, health policymakers and professionals have established various coding systems. These systems use alphanumeric codes to represent complex medical information in a simplified, unified format, which aids in the uniform representation and analysis of health data.
 
 
-Try Table
-^^^^^^^^^^^
+**Try Table**
+
 +------------------------+--------------------------+------------------------+
 | Type of Data           | Information Included     | Coding System Involved |
 +========================+==========================+========================+
@@ -64,14 +64,12 @@ Differences between ICD Codes and Phecodes : (to be placed in a colored text box
 This hierarchical organization of ICD codes and Phecodes enables researchers and healthcare providers to navigate from general health conditions to specific diagnoses, providing a structured framework for analyzing patient data. The ICD-Phecode system includes detailed mappings between ICD codes, their descriptions, corresponding Phecodes, phenotypes, and the range of excluded codes for each phenotype, offering a comprehensive tool for health data analysis.
 
 
-Try code-block
-^^^^^^^^^^^^^^^
+**Try code-block**
+
 
 .. code-block:: console
 
    (.venv) $ pip install tensorflow
-
-
 
 
 .. _UnstructuredData:
@@ -79,13 +77,13 @@ Try code-block
 Unstructured Data
 ----------------------
 
-Try note
+**Try note**
 
 .. note::
    This is note text. Use a note for information you want the user to
    pay particular attention to.
 
-Try warning
+**Try warning**
 
 .. warning::
     This is warning text. Use a warning for information the user must
@@ -97,6 +95,8 @@ Installation Guide
 
 
 .. _system-prerequisites:
+
+Content
 
 Software Versions Pre-requisite
 -------------------------------
