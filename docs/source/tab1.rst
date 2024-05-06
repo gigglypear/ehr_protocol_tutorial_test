@@ -4,9 +4,9 @@ Additional Tab 1
 
 Test insertion of image
 
-   .. figure:: workflow.png
+   .. figure:: images/sample_img.jpeg
          :scale: 30 %
-         :alt: CoBRA schematics
+         :alt: sample img alt
          :align: center
 
-         Conceptual idea and schematic of *CoBRA*, the input and the output
+         Sample image caption
