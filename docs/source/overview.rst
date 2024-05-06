@@ -25,7 +25,10 @@ Beyond direct patient care, EHRs have revolutionized biomedical research. Unlike
 EHR data can be broadly categorized into two types: structured and unstructured. Both types of data play crucial roles in healthcare analytics, patient care, and clinical decision-making. In this tutorial, we will guide you through understanding various EHR data structures and the steps needed to prepare them for research purposes. We'll also walk you through an example using the MIMIC-IV database, a rich source of intensive care EHR data available for research.
 
 
-.. _Structured Data:
+.. _StructuredData:
+
+Structured Data
+---------------
 
 Try Table
 
@@ -46,8 +49,10 @@ Try code-block
 
 
 
-.. _Unstructured Data:
-----------------
+.. _UnstructuredData:
+
+Unstructured Data
+----------------------
 
 Try note
 
