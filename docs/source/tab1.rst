@@ -1,10 +1,7 @@
-
-
-
 Additional Tab 1
 ==================
 
-:: _test_img:
+.. _test_img:
 
 Test insertion of image
 
