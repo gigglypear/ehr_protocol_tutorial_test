@@ -11,10 +11,30 @@ how to :ref:`reference` the project.
 Contents
 --------
 
-.. toctree::
+Contents
+--------
 
-   overview
-   procedure
-   tab1
-   tab2
-   reference
+.. toctree::
+   :maxdepth: 2
+   :caption: Overview
+
+   overview.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Procedure
+
+   procedure.rst
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Additional Page 1
+
+   tab1.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Additional Page 2
+
+   tab2.rst
