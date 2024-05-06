@@ -3,7 +3,7 @@ TEST VERSION
 
 This is a TEST VERSION of CELEHS EHR PROCESSING TUTORIAL
 
-This is to test hyperlink `CELESH PHECAP website <https://celehs.github.io/PheCAP/index.html>`.
+This is to test hyperlink `CELESH PHECAP website <https://celehs.github.io/PheCAP/index.html>`_
 
 Check out the :doc:`overview` section for further information, including
 how to :ref:`reference` the project.
