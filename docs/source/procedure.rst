@@ -1,5 +1,5 @@
-Overview
-=====
+Procedure
+=========
 
 .. _Module 1:
 
