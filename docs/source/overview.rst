@@ -65,3 +65,29 @@ Try warning
 .. warning::
     This is warning text. Use a warning for information the user must
     understand to avoid negative consequences.
+
+
+Installation Guide
+===================
+
+
+.. _system-prerequisites:
+
+Software Versions Pre-requisite
+===================================
+
+For quick instalation ......
+
+
+Install Steps
+=====================================
+
+Step 1 XXX:
+  - x
+  - y
+  - z
+
+Step 2 YYY:
+
+  - 111
+     - 222
