@@ -11,9 +11,6 @@ how to :ref:`reference` the project.
 Contents
 --------
 
-Contents
---------
-
 .. toctree::
    :maxdepth: 2
    :caption: Overview
