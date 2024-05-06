@@ -1,10 +1,10 @@
-:: _addtn_tab1:
+
 
 
 Additional Tab 1
 ==================
 
-::
+:: _test_img:
 
 Test insertion of image
 
