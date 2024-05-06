@@ -1,0 +1,10 @@
+.advantage {
+    background-color: lightgreen;
+    border: 1px solid green;
+    padding: 10px;
+ }
+ .disadvantage {
+    background-color: lightpink;
+    border: 1px solid rgb(230, 37, 69);
+    padding: 10px;
+ }
