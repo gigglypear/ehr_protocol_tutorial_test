@@ -99,13 +99,13 @@ Installation Guide
 .. _system-prerequisites:
 
 Software Versions Pre-requisite
-===================================
+-------------------------------
 
 For quick instalation ......
 
 
 Install Steps
-=====================================
+--------------
 
 Step 1 XXX:
   - x
