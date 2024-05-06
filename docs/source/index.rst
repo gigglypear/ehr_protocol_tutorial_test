@@ -13,12 +13,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Overview
+   :caption: About This Pipeline
 
    overview.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Procedure
 
    procedure.rst
